@@ -1,0 +1,12 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T09:38:15.399399",
+  "buy": [],
+  "sell": [],
+  "params": {
+    "lookback_days": 60,
+    "w_technical": 0.6,
+    "w_fundamental": 0.4,
+    "min_fundamental_score": 45.0
+  }
+}

@@ -1,0 +1,532 @@
+SMALL CAP  ( ₹1,000 – 5,000 Cr )   —   530 stocks
+====================================================================================================
+   1  JAYKAY          85.9         ₹2,283Cr  roe=40.5  rev=₹239.65Cr  Jaykay Enterprises
+   2  GARUDA          84.9         ₹1,667Cr  roe=31.17  rev=₹530.72Cr  Garuda Construction and Engineering
+   3  SIKA            82.4         ₹2,193Cr  roe=26.2  rev=₹211.23Cr  Sika Interplant Systems
+   4  ETL             81.2         ₹1,067Cr  roe=52.47  rev=₹144.37Cr  Emkay Tools
+   5  INFOBEAN        81.0         ₹1,520Cr  roe=23.24  rev=₹513.57Cr  InfoBeans Technologies
+   6  WEBELSOLAR      80.5         ₹4,391Cr  roe=66.68  rev=₹1049.44Cr  Websol Energy System
+   7  NINSYS          79.5         ₹1,482Cr  roe=41.85  rev=₹170.17Cr  NINtec Systems
+   8  CRAMC           78.5         ₹4,935Cr  roe=30.29  rev=₹424.95Cr  Canara Robeco Asset Management Company L
+   9  SAKSOFT         77.3         ₹2,585Cr  roe=19.07  rev=₹1007.19Cr  Saksoft
+  10  FRONTSP         75.5         ₹1,677Cr  roe=39.89  rev=₹322.06Cr  Frontier Springs
+  11  GANDHITUBE      75.2         ₹1,044Cr  roe=23.51  rev=₹191.77Cr  Gandhi Special Tubes
+  12  VENUSREM        75.2         ₹2,475Cr  roe=16.79  rev=₹769.6Cr  Venus Remedies
+  13  ORIANA          75.1         ₹3,160Cr  roe=39.64  rev=₹1813.67Cr  Oriana Power
+  14  CARERATING      74.8         ₹4,965Cr  roe=19.69  rev=₹473.07Cr  CARE Ratings
+  15  VIMTALABS       74.3         ₹2,643Cr  roe=18.55  rev=₹407.69Cr  Vimta Labs
+  16  INDOBORAX       73.5         ₹1,222Cr  roe=13.92  rev=₹215.45Cr  Indo Borax & Chemicals Ltd
+  17  MONARCH         72.6         ₹2,605Cr  roe=20.49  rev=₹268.8Cr  Monarch Networth Capital
+  18  INDRAMEDCO      72.0         ₹3,529Cr  roe=27.47  rev=₹1482.51Cr  Indraprastha Medical Corporation
+  19  CRIZAC          71.7         ₹3,517Cr  roe=40.29  rev=₹1042.16Cr  Crizac
+  20  SEAMECLTD       71.7         ₹3,623Cr  roe=21.77  rev=₹952.46Cr  Seamec
+  21  KKCL            71.6         ₹3,115Cr  roe=16.08  rev=₹1212.77Cr  Kewal Kiran Clothing
+  22  DEEPINDS        71.5         ₹3,044Cr  roe=9.42  rev=₹890.71Cr  Deep Industries
+  23  ALGOQUANT       71.3         ₹1,604Cr  roe=28.27  rev=₹234.55Cr  Algoquant Fintech
+  24  EXPLEOSOL       71.3         ₹1,282Cr  roe=17.56  rev=₹1107.96Cr  Expleo Solutions
+  25  KALAMANDIR      71.2         ₹1,685Cr  roe=11.78  rev=₹1672.52Cr  Sai Silks (Kalamandir)
+  26  ALLDIGI         70.9         ₹1,223Cr  roe=32.22  rev=₹598.68Cr  Alldigi Tech
+  27  EMUDHRA         70.9         ₹3,438Cr  roe=13.02  rev=₹701.58Cr  eMudhra
+  28  SAFEENTP        70.8         ₹1,351Cr  roe=35.49  rev=₹218.42Cr  Safe Enterprises Retail Fixtures
+  29  WAKEFIT         70.7         ₹4,021Cr  roe=23.17  rev=₹1488.94Cr  Wakefit Innovations
+  30  CEINSYS         70.4         ₹1,910Cr  roe=24.59  rev=₹660.7Cr  Ceinsys Tech
+  31  INDOTECH        70.3         ₹3,112Cr  roe=28.35  rev=₹782.08Cr  Indo Tech Transformers
+  32  SYNCOMF         70.0         ₹1,340Cr  roe=20.19  rev=₹489.17Cr  Syncom Formulations India Ltd
+  33  STEELCAS        69.7         ₹3,026Cr  roe=24.1  rev=₹423.17Cr  Steelcast
+  34  OSWALPUMPS      69.5         ₹4,843Cr  roe=35.08  rev=₹4128.78Cr  Oswal Pumps
+  35  MAYURUNIQ       69.1         ₹3,438Cr  roe=18.37  rev=₹967.02Cr  Mayur Uniquoters
+  36  FMGOETZE        68.8         ₹2,520Cr  roe=12.62  rev=₹1958.4Cr  Federal-Mogul Goetze (India)
+  37  JAGSNPHARM      68.7         ₹1,502Cr  roe=16.69  rev=₹287.23Cr  Jagsonpal Pharmaceuticals
+  38  ACCELYA         68.5         ₹1,647Cr  roe=46.03  rev=₹528.72Cr  Accelya Solutions India
+  39  GKENERGY        67.7         ₹2,977Cr  roe=37.26  rev=₹1715.28Cr  GK Energy
+  40  JARO            67.2         ₹1,142Cr  roe=19.89  rev=₹273.88Cr  Jaro Institute of Technology Management 
+  41  SRM             66.6         ₹1,174Cr  roe=34.34  rev=₹1025.57Cr  SRM Contractors
+  42  VIVIDEL         66.4         ₹1,148Cr  roe=109.75  rev=₹400.28Cr  Vivid Electromech
+  43  CANTABIL        66.2         ₹2,001Cr  roe=21.98  rev=₹852.55Cr  Cantabil Retail India
+  44  DATAMATICS      66.2         ₹4,736Cr  roe=13.35  rev=₹1987.15Cr  Datamatics Global Services
+  45  ZAGGLE          66.2         ₹2,784Cr  roe=10.41  rev=₹1907.65Cr  Zaggle Prepaid Ocean Services
+  46  ASHOKA          66.0         ₹3,672Cr  roe=48.6  rev=₹7519.88Cr  Ashoka Buildcon
+  47  ASHIANA         65.8         ₹3,861Cr  roe=14.52  rev=₹1143.01Cr  Ashiana Housing
+  48  MONOLITH        65.8         ₹1,654Cr  roe=27.76  rev=₹135.29Cr  Monolithisch India
+  49  SIRCA           65.6         ₹2,292Cr  roe=15.77  rev=₹492.48Cr  Sirca Paints India
+  50  DRAGARWQ        65.5         ₹2,436Cr  roe=25.22  rev=₹470.87Cr  Dr Agarwal's Eye Hospital
+  51  NRBBEARING      65.1         ₹4,200Cr  roe=15.18  rev=₹1335.15Cr  NRB Bearings
+  52  MIDWESTLTD      64.9         ₹4,648Cr  roe=13.26  rev=₹645.62Cr  Midwest
+  53  JUSTDIAL        64.7         ₹4,569Cr  roe=10.23  rev=₹1213.86Cr  Just Dial
+  54  JAGRAN          64.5         ₹1,415Cr  roe=9.94  rev=₹1876.22Cr  Jagran Prakashan
+  55  MCLOUD          64.5         ₹1,605Cr  roe=18.98  rev=₹697.88Cr  Magellanic Cloud
+  56  MASTEK          64.1         ₹4,881Cr  roe=14.81  rev=₹3698.75Cr  Mastek
+  57  THEJO           63.9         ₹2,086Cr  roe=15.11  rev=₹632.09Cr  Thejo Engineering
+  58  VAIBHAVGBL      63.8         ₹3,829Cr  roe=17.75  rev=₹3691.79Cr  Vaibhav Global
+  59  APCOTEXIND      63.6         ₹2,656Cr  roe=17.27  rev=₹1441.5Cr  Apcotex Industries
+  60  FOSECOIND       63.5         ₹3,887Cr  roe=10.48  rev=₹643.42Cr  Foseco India
+  61  BLIL            63.4         ₹1,591Cr  roe=12.67  rev=₹2727.55Cr  Balmer Lawrie Investments
+  62  LINCOLN         63.4         ₹1,261Cr  roe=12.3  rev=₹671.03Cr  Lincoln Pharmaceuticals
+  63  BLSE            63.3         ₹2,043Cr  roe=11.44  rev=₹1117.79Cr  BLS E-Services
+  64  SHRINGARMS      63.2         ₹2,121Cr  roe=26.29  rev=₹2245.82Cr  Shringar House of Mangalsutra
+  65  SILVERTUC       63.1         ₹2,295Cr  roe=23.56  rev=₹341.99Cr  Silver Touch Technologies
+  66  ANONDITA        63.0         ₹2,129Cr  roe=38.24  rev=₹137.42Cr  Anondita Medicare
+  67  DYCL            63.0         ₹1,828Cr  roe=20.32  rev=₹1197.82Cr  Dynamic Cables
+  68  FERMENTA        63.0         ₹1,076Cr  roe=18.88  rev=₹525.42Cr  Fermenta Biotech
+  69  WINDLAS         62.9         ₹1,791Cr  roe=12.23  rev=₹904.09Cr  Windlas Biotech
+  70  MACPOWER        62.5         ₹1,251Cr  roe=21.3  rev=₹333.18Cr  Macpower CNC Machines
+  71  ADVENZYMES      62.4         ₹3,902Cr  roe=11.05  rev=₹745.76Cr  Advanced Enzyme Technologies
+  72  SHANTIGOLD      62.4         ₹1,614Cr  roe=42.76  rev=₹2018.71Cr  Shanti Gold International
+  73  CARRARO         62.2         ₹3,187Cr  roe=25.54  rev=₹2255.49Cr  Carraro India
+  74  STUDDS          62.2         ₹1,852Cr  roe=17.01  rev=₹634.23Cr  Studds Accessories
+  75  ASIANENE        62.0         ₹1,670Cr  roe=11.46  rev=₹791.05Cr  Asian Energy Services
+  76  ADOR            61.9         ₹2,136Cr  roe=15.45  rev=₹1140.01Cr  Ador Welding
+  77  DANISH          61.7         ₹2,029Cr  roe=17.79  rev=₹521.45Cr  Danish Power
+  78  GATEWAY         61.6         ₹2,938Cr  roe=11.37  rev=₹2211.82Cr  Gateway Distriparks
+  79  SANGHVIMOV      61.4         ₹3,823Cr  roe=15.03  rev=₹1070.45Cr  Sanghvi Movers
+  80  SBCL            61.4         ₹4,410Cr  roe=21.61  rev=₹570.86Cr  Shivalik Bimetal Controls
+  81  RSYSTEMS        61.3         ₹2,784Cr  roe=26.3  rev=₹1958.21Cr  R Systems International
+  82  ANDHRSUGAR      61.0         ₹1,091Cr  roe=5.03  rev=₹2466.0Cr  Andhra Sugars
+  83  VSTIND          61.0         ₹4,417Cr  roe=21.11  rev=₹2045.74Cr  VST Industries
+  84  ONEPOINT        60.7         ₹1,502Cr  roe=8.98  rev=₹313.38Cr  One Point One Solutions
+  85  AGI             60.6         ₹4,468Cr  roe=15.61  rev=₹2665.32Cr  AGI Greenpac
+  86  AUTOAXLES       60.6         ₹2,680Cr  roe=15.8  rev=₹2177.73Cr  Automotive Axles
+  87  MARSONS         60.6         ₹1,946Cr  roe=27.24  rev=₹245.43Cr  Marsons
+  88  UDS             60.5         ₹1,242Cr  roe=8.52  rev=₹2939.51Cr  Updater Services
+  89  UNIPARTS        60.4         ₹3,038Cr  roe=18.01  rev=₹1170.4Cr  Uniparts India
+  90  EUROPRATIK      60.1         ₹2,821Cr  roe=28.34  rev=₹334.96Cr  Euro Pratik Sales
+  91  INDIGOPNTS      59.8         ₹4,794Cr  roe=13.28  rev=₹1405.02Cr  Indigo Paints
+  92  NAVNETEDUL      59.8         ₹3,107Cr  roe=18.16  rev=₹1721.0Cr  Navneet Education
+  93  VMARCIND        59.8         ₹3,932Cr  roe=41.78  rev=₹1797.31Cr  V-Marc India
+  94  PIXTRANS        59.7         ₹2,546Cr  roe=16.54  rev=₹582.31Cr  Pix Transmissions
+  95  GPTHEALTH       59.5         ₹1,212Cr  roe=16.32  rev=₹472.55Cr  GPT Healthcare
+  96  VERANDA         59.5         ₹2,302Cr  roe=19.21  rev=₹481.51Cr  Veranda Learning Solutions
+  97  AJMERA          59.3         ₹2,592Cr  roe=11.5  rev=₹1090.35Cr  Ajmera Realty & Infra India
+  98  CAPILLARY       59.2         ₹4,015Cr  roe=6.58  rev=₹734.6Cr  Capillary Technologies India
+  99  CONTROLPR       59.2         ₹1,024Cr  roe=10.08  rev=₹481.96Cr  Control Print
+ 100  VEEDOL          59.2         ₹2,513Cr  roe=19.66  rev=₹2168.54Cr  Veedol Corporation
+ 101  ACCENTMIC       58.8         ₹1,103Cr  roe=18.65  rev=₹698.07Cr  Accent Microcell
+ 102  BEPL            58.8         ₹2,465Cr  roe=17.28  rev=₹1276.0Cr  Bhansali Engineering Polymers
+ 103  JUNIPER         58.7         ₹4,377Cr  roe=5.06  rev=₹1047.68Cr  Juniper Hotels
+ 104  AKCAPIT         58.4         ₹1,181Cr  roe=10.94  rev=₹530.42Cr  AK Capital Services Ltd
+ 105  ANTELOPUS       58.4         ₹2,843Cr  roe=14.7  rev=₹278.88Cr  Antelopus Selan Energy
+ 106  BHARATSE        58.3         ₹1,170Cr  roe=19.91  rev=₹1950.95Cr  Bharat Seats
+ 107  AIMTRON         58.2         ₹2,654Cr  roe=23.6  rev=₹301.16Cr  Aimtron Electronics
+ 108  DAMCAPITAL      58.2         ₹1,055Cr  roe=24.4  rev=₹237.11Cr  DAM Capital Advisors
+ 109  SAKAR           58.1         ₹1,844Cr  roe=10.0  rev=₹251.74Cr  Sakar Healthcare
+ 110  BANARISUG       57.9         ₹4,235Cr  roe=8.01  rev=₹1916.67Cr  Bannari Amman Sugars
+ 111  INDNIPPON       57.9         ₹2,168Cr  roe=14.51  rev=₹1068.48Cr  India Nippon Electricals
+ 112  VINCOFE         57.8         ₹2,269Cr  roe=16.55  rev=₹553.05Cr  Vintage Coffee and Beverages
+ 113  YATRA           57.8         ₹1,743Cr  roe=5.8  rev=₹1006.51Cr  Yatra Online
+ 114  KPL             57.4         ₹2,522Cr  roe=22.61  rev=₹503.08Cr  Kwality Pharmaceuticals
+ 115  TALBROAUTO      57.4         ₹2,601Cr  roe=15.14  rev=₹870.04Cr  Talbros Automotive Components
+ 116  BCLIND          57.2         ₹1,007Cr  roe=13.44  rev=₹2903.81Cr  BCL Industries
+ 117  VSTTILLERS      57.2         ₹3,892Cr  roe=9.99  rev=₹1240.36Cr  VST Tillers Tractors
+ 118  AURIONPRO       57.1         ₹4,953Cr  roe=12.97  rev=₹1411.09Cr  Aurionpro Solutions
+ 119  INA             57.0         ₹2,494Cr  roe=28.29  rev=₹2146.02Cr  Insolation Energy
+ 120  DOLLAR          56.9         ₹1,486Cr  roe=11.91  rev=₹1880.96Cr  Dollar Industries
+ 121  DOLPHIN         56.6         ₹1,496Cr  roe=21.9  rev=₹116.42Cr  Dolphin Offshore Enterprises (India)
+ 122  HESTERBIO       56.6         ₹1,900Cr  roe=16.5  rev=₹332.6Cr  Hester Biosciences
+ 123  IVALUE          56.6         ₹1,528Cr  roe=19.07  rev=₹1055.56Cr  Ivalue Infosolutions
+ 124  REFEX           56.6         ₹4,833Cr  roe=17.14  rev=₹2276.74Cr  Refex Industries
+ 125  SWARAJENG       56.6         ₹4,830Cr  roe=43.23  rev=₹2007.13Cr  Swaraj Engines
+ 126  FLAIR           56.4         ₹2,803Cr  roe=12.94  rev=₹1250.11Cr  Flair Writing Industries
+ 127  BHAGYANGR       56.3         ₹1,254Cr  roe=21.58  rev=₹2377.83Cr  Bhagyanagar India
+ 128  INTERARCH       56.3         ₹3,229Cr  roe=16.48  rev=₹1898.0Cr  Interarch Building Solutions
+ 129  BUTTERFLY       56.1         ₹1,177Cr  roe=13.09  rev=₹943.15Cr  Butterfly Gandhimathi Appliances
+ 130  GHCL            56.0         ₹3,954Cr  roe=13.42  rev=₹3064.21Cr  GHCL
+ 131  AMIRCHAND       55.8         ₹1,331Cr  roe=17.61  rev=₹2001.65Cr  Amir Chand Jagdish Kumar (Exports) Ltd
+ 132  CONFIPET        55.8         ₹2,388Cr  roe=6.76  rev=₹4704.57Cr  Confidence Petroleum India
+ 133  RPGLIFE         55.8         ₹3,811Cr  roe=20.28  rev=₹707.52Cr  RPG Life Sciences
+ 134  POCL            55.5         ₹3,998Cr  roe=19.09  rev=₹2958.36Cr  Pondy Oxides & Chemicals Ltd
+ 135  LUMAXIND        55.4         ₹4,955Cr  roe=20.39  rev=₹4184.16Cr  Lumax Industries
+ 136  RISHABH         55.4         ₹2,222Cr  roe=12.02  rev=₹775.15Cr  Rishabh Instruments
+ 137  TEMBO           55.4         ₹1,090Cr  roe=27.53  rev=₹1090.19Cr  Tembo Global Industries
+ 138  RACLGEAR        55.3         ₹1,661Cr  roe=16.91  rev=₹489.94Cr  RACL Geartech
+ 139  DPABHUSHAN      55.2         ₹2,170Cr  roe=40.87  rev=₹4065.13Cr  D.P. Abhushan Ltd
+ 140  DIFFNKG         55.1         ₹1,455Cr  roe=13.0  rev=₹406.63Cr  Diffusion Engineers
+ 141  UTSSAV          54.9         ₹1,063Cr  roe=36.38  rev=₹1154.9Cr  Utssav CZ Gold Jewels
+ 142  EFCIL           54.7         ₹2,756Cr  roe=34.3  rev=₹1036.68Cr  EFC (I)
+ 143  NSIL            54.7         ₹2,827Cr  roe=0.34  rev=₹101.15Cr  Nalwa Sons Investments
+ 144  BHARATWIRE      54.6         ₹1,390Cr  roe=9.36  rev=₹590.54Cr  Bharat Wire Ropes
+ 145  EIHAHOTELS      54.5         ₹1,958Cr  roe=15.31  rev=₹383.73Cr  EIH Associated Hotels
+ 146  ARSSBL          54.4         ₹3,435Cr  roe=13.96  rev=₹932.16Cr  Anand Rathi Share and Stock Brokers
+ 147  HUBTOWN         54.3         ₹2,979Cr  roe=5.9  rev=₹643.51Cr  Hubtown
+ 148  SAMBHV          54.3         ₹3,215Cr  roe=18.35  rev=₹2413.24Cr  Sambhv Steel Tubes
+ 149  SOLARWORLD      54.3         ₹1,546Cr  roe=20.83  rev=₹1376.16Cr  Solarworld Energy Solutions
+ 150  EPACKPEB        54.2         ₹2,451Cr  roe=17.01  rev=₹1525.32Cr  EPack Prefab Technologies
+ 151  NORTHARC        54.0         ₹4,776Cr  roe=11.08  rev=₹2530.03Cr  Northern ARC Capital
+ 152  SPORTKING       54.0         ₹2,235Cr  roe=11.38  rev=₹2495.86Cr  Sportking India
+ 153  BANSALWIRE      53.9         ₹4,929Cr  roe=11.92  rev=₹4159.79Cr  Bansal Wire Industries
+ 154  FCL             53.9         ₹4,766Cr  roe=13.48  rev=₹772.23Cr  Fineotex Chemical
+ 155  GALAPREC        53.9         ₹1,389Cr  roe=12.91  rev=₹314.3Cr  Gala Precision Engineering
+ 156  MOTISONS        53.9         ₹1,604Cr  roe=13.96  rev=₹489.54Cr  Motisons Jewellers
+ 157  HARIOMPIPE      53.9         ₹1,248Cr  roe=12.42  rev=₹1666.95Cr  Hariom Pipe Industries
+ 158  ATULAUTO        53.8         ₹1,301Cr  roe=8.67  rev=₹824.39Cr  Atul Auto
+ 159  CAPACITE        53.8         ₹2,235Cr  roe=10.56  rev=₹2622.72Cr  Capacite Infraprojects
+ 160  NPST            53.8         ₹3,367Cr  roe=15.01  rev=₹194.9Cr  Network People Services Technologies
+ 161  ROUTE           53.8         ₹3,280Cr  roe=9.19  rev=₹4408.21Cr  Route Mobile
+ 162  TBZ             53.8         ₹1,303Cr  roe=27.06  rev=₹3202.95Cr  Tribhovandas Bhimji Zaveri
+ 163  VIDYAWIRES      53.7         ₹2,115Cr  roe=17.83  rev=₹1839.64Cr  Vidya Wires
+ 164  SIGNPOST        53.5         ₹1,324Cr  roe=27.61  rev=₹575.93Cr  Signpost India
+ 165  VENKEYS         53.4         ₹2,006Cr  roe=9.07  rev=₹3727.32Cr  Venky's (India)
+ 166  KAPSTON         53.3         ₹1,109Cr  roe=27.42  rev=₹830.2Cr  Kapston Services
+ 167  SIYSIL          53.3         ₹2,877Cr  roe=16.83  rev=₹2572.5Cr  Siyaram Silk Mills
+ 168  VRLLOG          53.3         ₹4,146Cr  roe=21.27  rev=₹3221.11Cr  VRL Logistics
+ 169  ADVAIT          53.2         ₹2,490Cr  roe=22.13  rev=₹714.52Cr  Advait Energy Transitions
+ 170  BCG             53.2         ₹1,978Cr  roe=9.99  rev=₹6928.06Cr  Brightcom Group
+ 171  UGROCAP         53.2         ₹1,507Cr  roe=7.06  rev=₹1937.06Cr  Ugro Capital
+ 172  KPEL            53.1         ₹2,368Cr  roe=43.37  rev=₹1497.09Cr  K.P. Energy
+ 173  KRISHANA        53.0         ₹4,482Cr  roe=38.15  rev=₹2418.0Cr  Krishana Phoschem
+ 174  RAJRILTD        52.9         ₹1,298Cr  roe=24.37  rev=₹1179.72Cr  Raj Rayon Industries
+ 175  VIDHIING        52.9         ₹1,415Cr  roe=15.53  rev=₹380.03Cr  Vidhi Specialty Food Ingredients
+ 176  ARTEMISMED      52.8         ₹4,132Cr  roe=11.69  rev=₹1081.24Cr  Artemis Medicare Services
+ 177  RSL             52.8         ₹1,062Cr  roe=19.34  rev=₹1006.96Cr  Rajputana Stainless Ltd
+ 178  ADFFOODS        52.7         ₹3,307Cr  roe=16.89  rev=₹683.23Cr  ADF Foods
+ 179  NILKAMAL        52.6         ₹1,921Cr  roe=7.54  rev=₹3778.06Cr  Nilkamal
+ 180  ALEMBICLTD      52.4         ₹2,352Cr  roe=13.27  rev=₹239.99Cr  Alembic
+ 181  GUFICBIO        52.3         ₹4,060Cr  roe=10.14  rev=₹944.01Cr  Gufic BioSciences
+ 182  KDDL            52.2         ₹3,883Cr  roe=8.83  rev=₹2153.43Cr  KDDL
+ 183  ROLEXRINGS      52.0         ₹4,065Cr  roe=12.35  rev=₹1143.5Cr  Rolex Rings
+ 184  ELITECON        51.9         ₹4,397Cr  roe=153.36  rev=₹548.76Cr  Elitecon International
+ 185  RML             51.9         ₹3,187Cr  roe=15.12  rev=₹3862.92Cr  Rane (Madras)
+ 186  MOSCHIP         51.5         ₹3,896Cr  roe=9.59  rev=₹585.15Cr  Moschip Technologies
+ 187  QLINE           51.5         ₹1,272Cr  roe=31.99  rev=₹627.56Cr  Q-Line Biotech
+ 188  AEROENTER       51.2         ₹1,554Cr  roe=8.41  rev=₹697.83Cr  Aeroflex Enterprises
+ 189  BOROSCI         51.2         ₹1,376Cr  roe=8.19  rev=₹467.34Cr  Borosil Scientific
+ 190  SURAKSHA        51.1         ₹1,420Cr  roe=14.11  rev=₹310.41Cr  Suraksha Diagnostic
+ 191  DHANUKA         50.9         ₹4,813Cr  roe=18.62  rev=₹2019.79Cr  Dhanuka Agritech
+ 192  WHEELS          50.9         ₹4,366Cr  roe=15.79  rev=₹5464.94Cr  Wheels India
+ 193  BHARATRAS       50.8         ₹2,280Cr  roe=12.12  rev=₹1241.84Cr  Bharat Rasayan
+ 194  CENTENKA        50.8         ₹1,131Cr  roe=6.92  rev=₹1705.41Cr  Century Enka
+ 195  KRISHIVAL       50.8         ₹1,037Cr  roe=13.11  rev=₹292.67Cr  Krishival Foods
+ 196  MBEL            50.8         ₹1,704Cr  roe=19.23  rev=₹1259.72Cr  M & B Engineering
+ 197  NELCAST         50.8         ₹1,180Cr  roe=8.43  rev=₹1328.4Cr  Nelcast
+ 198  JASH            50.7         ₹3,484Cr  roe=16.0  rev=₹736.19Cr  Jash Engineering
+ 199  IPL             50.5         ₹1,885Cr  roe=12.56  rev=₹1057.42Cr  India Pesticides
+ 200  MSTCLTD         50.5         ₹4,413Cr  roe=26.6  rev=₹369.66Cr  MSTC
+ 201  PRADPME         50.5         ₹1,027Cr  roe=20.13  rev=₹338.03Cr  Pradeep Metals
+ 202  AWHCL           50.4         ₹1,340Cr  roe=10.79  rev=₹1053.19Cr  Antony Waste Handling Cell
+ 203  CNL             50.4         ₹1,086Cr  roe=18.82  rev=₹2699.77Cr  Creative Newtech
+ 204  HUHTAMAKI       50.4         ₹1,487Cr  roe=9.5  rev=₹2469.41Cr  Huhtamaki India
+ 205  SOTL            50.4         ₹3,438Cr  roe=10.46  rev=₹4362.58Cr  Savita Oil Technologies
+ 206  CLSEL           50.3         ₹1,414Cr  roe=14.61  rev=₹1439.58Cr  Chaman Lal Setia Exports
+ 207  BUILDPRO        50.1         ₹2,494Cr  roe=25.48  rev=₹6825.71Cr  Shankara Buildpro Ltd
+ 208  KSL             50.1         ₹3,570Cr  roe=12.9  rev=₹1845.61Cr  Kalyani Steels
+ 209  DDEVPLSTIK      50.1         ₹2,812Cr  roe=21.84  rev=₹2947.87Cr  Ddev Plastiks Industries
+ 210  NGLFINE         49.7         ₹1,916Cr  roe=15.71  rev=₹500.95Cr  NGL Fine Chem Ltd
+ 211  JUBLCPL         49.6         ₹3,048Cr  roe=32.56  rev=₹1891.09Cr  Jubilant Agri and Consumer Products
+ 212  JNKINDIA        49.5         ₹2,664Cr  roe=12.12  rev=₹818.55Cr  JNK India
+ 213  RAYMONDLSL      49.5         ₹4,799Cr  roe=0.48  rev=₹6888.0Cr  Raymond Lifestyle
+ 214  AMRUTANJAN      49.4         ₹1,560Cr  roe=16.62  rev=₹502.55Cr  Amrutanjan Health Care
+ 215  SPECTRUM        49.4         ₹2,742Cr  roe=23.04  rev=₹525.94Cr  Spectrum Electrical Industries
+ 216  TASTYBITE       49.4         ₹2,208Cr  roe=10.81  rev=₹548.66Cr  Tasty Bite Eatables
+ 217  CARYSIL         49.3         ₹3,350Cr  roe=17.3  rev=₹923.95Cr  Carysil
+ 218  NDRAUTO         49.3         ₹1,931Cr  roe=18.81  rev=₹822.54Cr  NDR Auto Components
+ 219  WONDERLA        49.3         ₹3,137Cr  roe=4.64  rev=₹518.77Cr  Wonderla Holidays
+ 220  PLATIND         49.2         ₹1,195Cr  roe=12.57  rev=₹450.44Cr  Platinum Industries
+ 221  RAMCOIND        49.2         ₹2,921Cr  roe=7.0  rev=₹1792.22Cr  Ramco Industries
+ 222  SSWL            49.2         ₹3,607Cr  roe=11.09  rev=₹5182.8Cr  Steel Strips Wheels
+ 223  SUNDROP         49.1         ₹2,458Cr  roe=1.38  rev=₹1549.44Cr  Sundrop Brands
+ 224  TCPLPACK        49.1         ₹2,623Cr  roe=14.35  rev=₹1810.22Cr  TCPL Packaging
+ 225  VIKRAN          49.1         ₹1,967Cr  roe=10.76  rev=₹1249.31Cr  Vikran Engineering
+ 226  SOLEX           49.0         ₹1,188Cr  roe=46.43  rev=₹1618.06Cr  Solex Energy
+ 227  HLEGLAS         48.9         ₹2,636Cr  roe=9.62  rev=₹1352.98Cr  HLE Glascoat
+ 228  PANAMAPET       48.8         ₹2,426Cr  roe=15.6  rev=₹3064.26Cr  Panama Petrochem
+ 229  ORIENTCEM       48.7         ₹2,764Cr  roe=17.08  rev=₹2793.12Cr  Orient Cement
+ 230  PITTIENG        48.5         ₹3,645Cr  roe=12.5  rev=₹1912.8Cr  Pitti Engineering
+ 231  PRINCEPIPE      48.3         ₹3,138Cr  roe=4.54  rev=₹2598.33Cr  Prince Pipes and Fittings
+ 232  GOODYEAR        48.2         ₹1,762Cr  roe=10.17  rev=₹2475.88Cr  Goodyear India
+ 233  GANDHAR         48.1         ₹1,712Cr  roe=10.46  rev=₹4241.18Cr  Gandhar Oil Refinery (INDIA)
+ 234  KRSNAA          48.1         ₹1,745Cr  roe=10.89  rev=₹772.77Cr  Krsnaa Diagnostics
+ 235  WAAREEINDO      48.1         ₹1,626Cr  roe=150.63  rev=₹679.85Cr  Indosolar
+ 236  EKC             48.0         ₹1,353Cr  roe=11.27  rev=₹1470.57Cr  Everest Kanto Cylinder
+ 237  AFSL            47.9         ₹1,021Cr  roe=8.29  rev=₹23873.57Cr  Abans Financial Services
+ 238  TCC             47.8         ₹1,536Cr  roe=5.34  rev=₹179.39Cr  TCC Concept
+ 239  GREENPOWER      47.7         ₹1,260Cr  roe=6.24  rev=₹292.95Cr  Orient Green Power Company
+ 240  SUNTECK         47.7         ₹4,686Cr  roe=5.95  rev=₹1123.84Cr  Sunteck Realty
+ 241  ASALCBR         47.6         ₹1,726Cr  roe=14.56  rev=₹1033.28Cr  Associated Alcohols & Breweries
+ 242  RAMKY           47.6         ₹2,783Cr  roe=13.33  rev=₹1846.48Cr  Ramky Infrastructure
+ 243  HARSHA          47.6         ₹3,825Cr  roe=11.69  rev=₹1626.79Cr  Harsha Engineers International
+ 244  GOCOLORS        47.5         ₹2,133Cr  roe=8.53  rev=₹838.01Cr  Go Fashion (India)
+ 245  PATELENG        47.5         ₹3,438Cr  roe=6.55  rev=₹5102.74Cr  Patel Engineering
+ 246  DCW             47.4         ₹1,398Cr  roe=4.57  rev=₹2143.59Cr  DCW
+ 247  AMNPLST         47.3         ₹1,051Cr  roe=13.26  rev=₹571.03Cr  Amines & Plasticizers Ltd
+ 248  GPTINFRA        47.3         ₹1,659Cr  roe=17.28  rev=₹1289.92Cr  GPT Infraprojects
+ 249  NAVKARCORP      47.0         ₹1,630Cr  roe=1.55  rev=₹687.46Cr  Navkar Corporation
+ 250  EXCELINDUS      46.9         ₹1,139Cr  roe=4.6  rev=₹1094.52Cr  Excel Industries
+ 251  RALLIS          46.9         ₹4,326Cr  roe=9.32  rev=₹2896.65Cr  Rallis India
+ 252  HPL             46.8         ₹2,355Cr  roe=9.5  rev=₹1811.1Cr  HPL Electric & Power
+ 253  PACEDIGITK      46.8         ₹4,339Cr  roe=17.62  rev=₹2641.27Cr  Pace Digitek
+ 254  BETA            46.6         ₹2,125Cr  roe=18.78  rev=₹384.83Cr  Beta Drugs
+ 255  GSPCROP         46.4         ₹1,931Cr  roe=16.03  rev=₹1517.11Cr  GSP Crop Science Ltd
+ 256  RELINFRA        46.4         ₹3,020Cr  roe=17.96  rev=₹20440.53Cr  Reliance Infrastructure
+ 257  SATIN           46.4         ₹2,727Cr  roe=12.29  rev=₹2862.03Cr  Satin Creditcare Network
+ 258  MAHLOG          46.3         ₹3,654Cr  roe=0.28  rev=₹6999.3Cr  Mahindra Logistics
+ 259  FILATEX         46.1         ₹2,339Cr  roe=12.93  rev=₹4160.52Cr  Filatex India
+ 260  KSCL            46.1         ₹4,760Cr  roe=18.17  rev=₹1394.76Cr  Kaveri Seed Company
+ 261  MARATHON        46.1         ₹2,706Cr  roe=11.73  rev=₹496.12Cr  Marathon Nextgen Realty
+ 262  SANDHAR         46.1         ₹4,356Cr  roe=16.07  rev=₹4852.09Cr  Sandhar Technologies
+ 263  MAITHANALL      46.0         ₹2,959Cr  roe=10.99  rev=₹2172.59Cr  Maithan Alloys
+ 264  MEDIASSIST      46.0         ₹2,714Cr  roe=12.74  rev=₹904.77Cr  Medi Assist Healthcare Services
+ 265  PFS             46.0         ₹2,010Cr  roe=10.95  rev=₹514.57Cr  PTC India Financial Services
+ 266  RANEHOLDIN      46.0         ₹2,388Cr  roe=8.66  rev=₹5883.31Cr  Rane Holdings
+ 267  WENDT           46.0         ₹1,649Cr  roe=5.85  rev=₹236.32Cr  Wendt (India)
+ 268  KCP             45.9         ₹2,185Cr  roe=11.89  rev=₹2576.16Cr  KCP
+ 269  BRIGHOTEL       45.8         ₹2,466Cr  roe=11.18  rev=₹525.03Cr  Brigade Hotel Ventures
+ 270  PAUSHAKLTD      45.8         ₹1,188Cr  roe=8.22  rev=₹218.6Cr  Paushak
+ 271  IKIO            45.7         ₹1,211Cr  roe=6.51  rev=₹595.29Cr  IKIO Technologies
+ 272  BESTALLION      45.5         ₹2,114Cr  roe=8.93  rev=₹430.68Cr  Stallion India Fluorochemicals
+ 273  AGIIL           45.4         ₹4,644Cr  roe=24.98  rev=₹352.54Cr  AGI Infra
+ 274  NITINSPIN       45.4         ₹3,081Cr  roe=12.76  rev=₹3213.87Cr  Nitin Spinners
+ 275  PDSL            45.4         ₹4,978Cr  roe=6.54  rev=₹13110.08Cr  PDS
+ 276  EVEREADY        45.3         ₹2,646Cr  roe=31.65  rev=₹1455.39Cr  Eveready Industries India
+ 277  DPEL            45.0         ₹1,188Cr  roe=24.82  rev=₹625.96Cr  Divine Power Energy
+ 278  EPIGRAL         44.9         ₹4,768Cr  roe=16.09  rev=₹2527.18Cr  Epigral
+ 279  SOMANYCERA      44.6         ₹2,129Cr  roe=10.06  rev=₹2789.84Cr  Somany Ceramics
+ 280  INDIANHUME      44.5         ₹1,754Cr  roe=9.86  rev=₹1305.57Cr  Indian Hume Pipe Company
+ 281  MARINE          44.5         ₹3,707Cr  roe=13.02  rev=₹876.94Cr  Marine Electricals (India)
+ 282  PASHUPATI       44.4         ₹1,395Cr  roe=6.52  rev=₹687.81Cr  Pashupati Cotspin
+ 283  ROTO            44.4         ₹1,379Cr  roe=10.74  rev=₹284.65Cr  Roto Pumps
+ 284  DOLATALGO       44.3         ₹1,284Cr  roe=12.09  rev=₹403.58Cr  Dolat Algotech
+ 285  GREENPLY        44.3         ₹3,789Cr  roe=10.51  rev=₹2739.04Cr  Greenply Industries
+ 286  MVKAGRO         44.3         ₹1,945Cr  roe=17.26  rev=₹319.89Cr  M V K Agro Food Product
+ 287  PARAGMILK       44.3         ₹2,898Cr  roe=11.84  rev=₹3817.5Cr  Parag Milk Foods
+ 288  GUJTHEM         44.3         ₹4,324Cr  roe=17.41  rev=₹165.82Cr  Gujarat Themis Biosyn
+ 289  TCIEXP          44.1         ₹1,947Cr  roe=10.29  rev=₹1237.41Cr  TCI Express
+ 290  VINYAS          44.0         ₹1,761Cr  roe=16.13  rev=₹514.32Cr  Vinyas Innovative Technologies
+ 291  CYIENTDLM       43.9         ₹3,688Cr  roe=7.47  rev=₹1261.49Cr  Cyient DLM
+ 292  RATNAVEER       43.9         ₹1,294Cr  roe=12.36  rev=₹1068.74Cr  Ratnaveer Precision Engineering
+ 293  RGL             43.9         ₹1,252Cr  roe=6.21  rev=₹2813.03Cr  Renaissance Global
+ 294  SASKEN          43.9         ₹3,261Cr  roe=6.57  rev=₹1113.17Cr  Sasken Technologies
+ 295  MOLDTKPAC       43.7         ₹2,352Cr  roe=10.98  rev=₹886.61Cr  Mold-Tek Packaging
+ 296  AARTIDRUGS      43.6         ₹3,398Cr  roe=13.36  rev=₹2565.31Cr  Aarti Drugs
+ 297  BOROLTD         43.6         ₹2,830Cr  roe=8.81  rev=₹1195.92Cr  Borosil
+ 298  HMAAGRO         43.6         ₹1,104Cr  roe=19.05  rev=₹6916.5Cr  HMA Agro Industries
+ 299  MANINDS         43.6         ₹4,268Cr  roe=9.23  rev=₹3563.9Cr  Man Industries (India)
+ 300  PROTEAN         43.5         ₹2,410Cr  roe=9.69  rev=₹997.75Cr  Protean eGov Technologies
+ 301  RELTD           43.5         ₹3,236Cr  roe=21.23  rev=₹543.2Cr  Ravindra Energy
+ 302  SMCGLOBAL       43.5         ₹1,480Cr  roe=8.09  rev=₹1873.13Cr  SMC Global Securities
+ 303  KROSS           43.4         ₹1,219Cr  roe=11.95  rev=₹673.2Cr  Kross
+ 304  REPCOHOME       43.4         ₹2,601Cr  roe=12.41  rev=₹1785.64Cr  Repco Home Finance
+ 305  VSSL            43.4         ₹2,679Cr  roe=11.76  rev=₹1754.43Cr  Vardhman Special Steels
+ 306  SHANTIGEAR      43.3         ₹3,406Cr  roe=18.19  rev=₹518.72Cr  Shanthi Gears
+ 307  STOVEKRAFT      43.3         ₹2,576Cr  roe=8.61  rev=₹1607.42Cr  Stove Kraft
+ 308  AWFIS           43.2         ₹2,184Cr  roe=14.01  rev=₹1493.48Cr  Awfis Space Solutions
+ 309  SINDHUTRAD      43.1         ₹3,769Cr  roe=2.47  rev=₹524.08Cr  Sindhu Trade Links
+ 310  RUPA            42.9         ₹1,335Cr  roe=6.96  rev=₹1259.1Cr  Rupa & Company
+ 311  MMFL            42.7         ₹2,212Cr  roe=10.5  rev=₹1589.87Cr  MM Forgings
+ 312  MWL             42.7         ₹1,098Cr  roe=18.03  rev=₹1207.98Cr  Mangalam Worldwide
+ 313  IFGLEXPOR       42.6         ₹1,336Cr  roe=3.04  rev=₹1894.25Cr  IFGL Refractories
+ 314  TVSSRICHAK      42.6         ₹3,156Cr  roe=6.0  rev=₹3643.35Cr  TVS Srichakra
+ 315  ALICON          42.5         ₹1,060Cr  roe=5.64  rev=₹1775.73Cr  Alicon Castalloy
+ 316  PARKHOTELS      42.5         ₹2,545Cr  roe=5.0  rev=₹707.28Cr  Apeejay Surrendra Park Hotels
+ 317  PARACABLES      42.4         ₹2,086Cr  roe=7.99  rev=₹1913.35Cr  Paramount Communications
+ 318  TEXRAIL         42.4         ₹4,380Cr  roe=7.55  rev=₹4377.27Cr  Texmaco Rail & Engineering
+ 319  AYE             42.3         ₹4,114Cr  roe=9.21  rev=₹1757.45Cr  Aye Finance Ltd
+ 320  JAICORPLTD      42.2         ₹2,034Cr  roe=11.7  rev=₹514.34Cr  Jai Corp
+ 321  JINDALPOLY      42.1         ₹2,818Cr  roe=2.84  rev=₹5334.94Cr  Jindal Poly Films
+ 322  LANDMARK        42.1         ₹1,793Cr  roe=6.55  rev=₹4896.23Cr  Landmark Cars
+ 323  RAMRAT          42.1         ₹3,839Cr  roe=20.14  rev=₹5176.65Cr  Ram Ratna Wires
+ 324  STYRENIX        42.1         ₹4,009Cr  roe=14.72  rev=₹3438.03Cr  Styrenix Performance Materials
+ 325  TFCILTD         42.1         ₹3,581Cr  roe=9.75  rev=₹257.69Cr  Tourism Finance Corporation of India
+ 326  WPIL            42.0         ₹4,773Cr  roe=10.68  rev=₹1854.57Cr  WPIL
+ 327  JTLIND          41.7         ₹3,043Cr  roe=7.54  rev=₹2136.36Cr  JTL Industries
+ 328  MUFIN           41.7         ₹2,533Cr  roe=6.47  rev=₹209.69Cr  Mufin Green Finance
+ 329  GRMOVER         41.5         ₹1,904Cr  roe=14.53  rev=₹1769.2Cr  GRM Overseas
+ 330  DEEDEV          41.4         ₹4,696Cr  roe=9.15  rev=₹1142.0Cr  DEE Development Engineers
+ 331  HERITGFOOD      41.3         ₹3,104Cr  roe=14.48  rev=₹4525.99Cr  Heritage Foods
+ 332  LAXMIDENTL      41.3         ₹1,236Cr  roe=12.83  rev=₹277.86Cr  Laxmi Dental
+ 333  ORIENTELEC      41.3         ₹3,800Cr  roe=13.18  rev=₹3326.39Cr  Orient Electric
+ 334  VISHNU          41.3         ₹4,047Cr  roe=14.26  rev=₹1609.7Cr  Vishnu Chemicals
+ 335  GIPCL           41.2         ₹2,473Cr  roe=10.03  rev=₹1491.12Cr  Gujarat Industries Power Company
+ 336  HARDWYN         41.1         ₹1,171Cr  roe=3.3  rev=₹199.86Cr  Hardwyn India
+ 337  PENIND          40.9         ₹2,376Cr  roe=12.84  rev=₹3620.09Cr  Pennar Industries
+ 338  RAJRATAN        40.8         ₹2,232Cr  roe=11.61  rev=₹1156.5Cr  Rajratan Global Wire
+ 339  ROSSARI         40.8         ₹2,918Cr  roe=11.85  rev=₹2396.37Cr  Rossari Biotech
+ 340  ELECTCAST       40.7         ₹4,869Cr  roe=2.76  rev=₹5918.02Cr  Electrosteel Castings
+ 341  RAMCOSYS        40.6         ₹3,150Cr  roe=12.57  rev=₹700.95Cr  Ramco Systems
+ 342  FISCHER         40.5         ₹2,406Cr  roe=8.59  rev=₹308.58Cr  Fischer Medical Ventures
+ 343  PREMEXPLN       40.5         ₹4,350Cr  roe=17.13  rev=₹388.34Cr  Premier Explosives
+ 344  DELTACORP       40.4         ₹1,724Cr  roe=3.47  rev=₹688.46Cr  Delta Corp
+ 345  FAZE3Q          40.2         ₹1,504Cr  roe=7.7  rev=₹923.07Cr  Faze Three
+ 346  GLOBUSSPR       40.1         ₹2,525Cr  roe=8.81  rev=₹3612.78Cr  Globus Spirits
+ 347  HONDAPOWER      40.1         ₹2,237Cr  roe=7.71  rev=₹865.45Cr  Honda India Power Products
+ 348  IMPAL           40.0         ₹1,370Cr  roe=4.24  rev=₹837.11Cr  India Motor Parts & Accessories
+ 349  TTKHLTCARE      40.0         ₹1,292Cr  roe=6.03  rev=₹857.28Cr  TTK Healthcare
+ 350  WSTCSTPAPR      40.0         ₹3,537Cr  roe=4.24  rev=₹4278.79Cr  West Coast Paper Mills
+ 351  BAJAJHCARE      39.9         ₹1,028Cr  roe=4.27  rev=₹611.03Cr  Bajaj Healthcare
+ 352  CREST           39.9         ₹1,113Cr  roe=3.88  rev=₹158.43Cr  Crest Ventures
+ 353  INSECTICID      39.9         ₹1,914Cr  roe=12.1  rev=₹2140.01Cr  Insecticides (India)
+ 354  ALLTIME         39.7         ₹1,538Cr  roe=8.22  rev=₹610.53Cr  All Time Plastics
+ 355  PRECAM          39.7         ₹1,416Cr  roe=6.3  rev=₹772.88Cr  Precision Camshafts
+ 356  BNAGROCHEM      39.5         ₹2,743Cr  roe=7.97  rev=₹873.28Cr  BN Agrochem
+ 357  DIAMONDYD       39.3         ₹2,694Cr  roe=1.4  rev=₹1724.65Cr  Prataap Snacks
+ 358  SALZERELEC      39.1         ₹1,133Cr  roe=9.32  rev=₹1758.38Cr  Salzer Electronics
+ 359  PNGSREVA        39.0         ₹1,247Cr  roe=21.02  rev=₹439.03Cr  PNGS Reva Diamond Jewellery Ltd
+ 360  SAIPARENT       38.8         ₹2,602Cr  roe=4.88  rev=₹381.0Cr  Sai Parenterals Ltd
+ 361  SALASAR         38.8         ₹1,042Cr  roe=2.13  rev=₹1502.77Cr  Salasar Techno Engineering
+ 362  UNICHEMLAB      38.7         ₹3,246Cr  roe=9.78  rev=₹2201.85Cr  Unichem Laboratories
+ 363  EMIL            38.6         ₹4,584Cr  roe=6.79  rev=₹7183.26Cr  Electronics Mart India
+ 364  HITECH          38.6         ₹1,820Cr  roe=5.88  rev=₹4200.07Cr  Hi-Tech Pipes
+ 365  KISSHT          38.6         ₹4,598Cr  roe=23.97  rev=₹2179.25Cr  OnEMI Technology Solutions Ltd
+ 366  MANINFRA        38.6         ₹4,214Cr  roe=9.95  rev=₹630.46Cr  Man Infraconstruction
+ 367  RICOAUTO        38.6         ₹1,818Cr  roe=6.69  rev=₹2477.73Cr  Rico Auto Industries
+ 368  BBL             38.4         ₹3,188Cr  roe=6.05  rev=₹2273.8Cr  Bharat Bijlee
+ 369  JINDWORLD       38.3         ₹3,093Cr  roe=8.46  rev=₹2285.54Cr  Jindal Worldwide
+ 370  JTEKTINDIA      38.3         ₹3,722Cr  roe=7.44  rev=₹2665.58Cr  JTEKT India
+ 371  GREAVESCOT      38.2         ₹4,983Cr  roe=7.55  rev=₹3436.62Cr  Greaves Cotton
+ 372  MANAKCOAT       38.2         ₹1,106Cr  roe=14.14  rev=₹884.48Cr  Manaksia Coated Metals & Industries
+ 373  MSPL            38.1         ₹2,338Cr  roe=3.36  rev=₹2842.96Cr  MSP Steel & Power
+ 374  ARFIN           37.3         ₹1,526Cr  roe=9.45  rev=₹617.99Cr  Arfin India
+ 375  NOVARTIND       37.1         ₹3,586Cr  roe=11.63  rev=₹354.33Cr  Novartis India
+ 376  SHK             37.0         ₹1,784Cr  roe=5.26  rev=₹2368.26Cr  S H Kelkar And Company
+ 377  SULA            36.9         ₹1,297Cr  roe=4.37  rev=₹596.19Cr  Sula Vineyards
+ 378  UNIVCABLES      36.9         ₹4,350Cr  roe=8.91  rev=₹3022.67Cr  Universal Cables
+ 379  SMSPHARMA       36.7         ₹3,562Cr  roe=14.31  rev=₹886.87Cr  SMS Pharmaceuticals
+ 380  SPMLINFRA       36.6         ₹1,668Cr  roe=8.69  rev=₹868.46Cr  SPML Infra
+ 381  STYLEBAAZA      36.6         ₹1,989Cr  roe=10.98  rev=₹1840.95Cr  Baazar Style Retail
+ 382  SAMHI           36.4         ₹3,868Cr  roe=30.59  rev=₹1247.8Cr  Samhi Hotels
+ 383  GULPOLY         36.4         ₹1,175Cr  roe=16.12  rev=₹2312.42Cr  Gulshan Polyols
+ 384  RAJESHEXPO      36.0         ₹2,702Cr  roe=0.68  rev=₹778716.04Cr  Rajesh Exports
+ 385  GOPAL           35.9         ₹3,495Cr  roe=16.67  rev=₹1508.23Cr  Gopal Snacks
+ 386  IGARASHI        35.8         ₹1,490Cr  roe=2.61  rev=₹865.92Cr  Igarashi Motors India
+ 387  ARMANFIN        35.7         ₹1,754Cr  roe=6.26  rev=₹638.95Cr  Arman Financial Services
+ 388  GENESYS         35.5         ₹1,365Cr  roe=5.17  rev=₹327.81Cr  Genesys International Corporation
+ 389  SESHAPAPER      35.4         ₹1,457Cr  roe=4.1  rev=₹1710.45Cr  Seshasayee Paper and Boards
+ 390  LIKHITHA        35.1         ₹1,013Cr  roe=9.99  rev=₹456.73Cr  Likhitha Infrastructure
+ 391  JYOTISTRUC      34.8         ₹1,394Cr  roe=10.81  rev=₹750.87Cr  Jyoti Structures
+ 392  BAJEL           34.7         ₹2,268Cr  roe=2.87  rev=₹2791.58Cr  Bajel Projects
+ 393  PNBGILTS        34.7         ₹1,625Cr  roe=11.16  rev=₹1698.76Cr  PNB Gilts
+ 394  COSMOFIRST      34.4         ₹2,109Cr  roe=10.12  rev=₹3638.72Cr  Cosmo First
+ 395  HINDOILEXP      34.3         ₹2,117Cr  roe=4.64  rev=₹263.15Cr  Hindustan Oil Exploration Company
+ 396  5PAISA          34.1         ₹1,658Cr  roe=7.05  rev=₹319.56Cr  5Paisa Capital
+ 397  ARVSMART        34.1         ₹2,755Cr  roe=15.47  rev=₹564.05Cr  Arvind Smartspaces
+ 398  ORIENTTECH      34.1         ₹1,136Cr  roe=1.37  rev=₹869.54Cr  Orient Technologies
+ 399  ANZEN           33.8         ₹4,369Cr  roe=-0.04  rev=₹469.92Cr  Anzen India Energy Yield Plus Trust
+ 400  YUKEN           33.7         ₹1,048Cr  roe=4.29  rev=₹462.17Cr  Yuken India
+ 401  GANECOS         33.6         ₹2,384Cr  roe=3.15  rev=₹1481.66Cr  Ganesha Ecosphere
+ 402  MOL             33.5         ₹1,237Cr  roe=1.88  rev=₹2173.96Cr  Meghmani Organics
+ 403  GEOJITFSL       33.4         ₹2,204Cr  roe=6.82  rev=₹667.49Cr  Geojit Financial Services
+ 404  LUXIND          33.2         ₹3,692Cr  roe=5.82  rev=₹2928.74Cr  Lux Industries
+ 405  SERVOTECH       33.2         ₹2,284Cr  roe=12.79  rev=₹671.64Cr  Servotech Renewable Power System
+ 406  SIMPLEXINF      33.1         ₹1,980Cr  roe=5.34  rev=₹1021.19Cr  Simplex Infrastructures
+ 407  ASIANTILES      32.7         ₹1,611Cr  roe=0.79  rev=₹1858.06Cr  Asian Granito India
+ 408  ELCIDIN         32.7         ₹2,300Cr  roe=1.22  rev=₹108.9Cr  EL CID Investments Ltd
+ 409  KIRIINDUS       32.7         ₹2,519Cr  roe=114.97  rev=₹839.65Cr  Kiri Industries
+ 410  DALMIASUG       32.5         ₹2,623Cr  roe=7.48  rev=₹3618.08Cr  Dalmia Bharat Sugar and Industries
+ 411  WEL             32.4         ₹1,380Cr  roe=8.77  rev=₹654.75Cr  Wonder Electricals
+ 412  ARIHANTSUP      32.3         ₹1,106Cr  roe=9.69  rev=₹550.97Cr  Arihant Superstructures
+ 413  POKARNA         32.2         ₹3,363Cr  roe=9.86  rev=₹571.62Cr  Pokarna
+ 414  PRAKASH         32.1         ₹2,484Cr  roe=9.65  rev=₹3478.66Cr  Prakash Industries
+ 415  GODAVARIB       32.0         ₹1,441Cr  roe=0.45  rev=₹1987.94Cr  Godavari Biorefineries
+ 416  ICEMAKE         31.7         ₹1,213Cr  roe=9.49  rev=₹668.2Cr  Ice Make Refrigeration
+ 417  KNRCON          31.7         ₹3,777Cr  roe=9.19  rev=₹2698.01Cr  KNR Constructions
+ 418  APEX            31.5         ₹1,275Cr  roe=7.6  rev=₹931.14Cr  Apex Frozen Foods
+ 419  SHRIRAMPPS      31.3         ₹1,484Cr  roe=7.16  rev=₹1267.41Cr  Shriram Properties
+ 420  QUESS           31.1         ₹4,030Cr  roe=19.69  rev=₹15305.19Cr  Quess Corp
+ 421  ARKADE          31.0         ₹2,284Cr  roe=0.61  rev=₹816.4Cr  Arkade Developers
+ 422  MANGLMCEM       31.0         ₹2,535Cr  roe=14.1  rev=₹1758.41Cr  Mangalam Cement
+ 423  VINDHYATEL      30.9         ₹2,462Cr  roe=5.31  rev=₹3593.21Cr  Vindhya Telelinks
+ 424  BFUTILITIE      30.7         ₹2,348Cr  roe=114.05  rev=₹836.99Cr  BF Utilities
+ 425  MANALIPETC      30.1         ₹1,092Cr  roe=10.94  rev=₹1022.39Cr  Manali Petrochemicals
+ 426  DREDGECORP      29.9         ₹2,989Cr  roe=0.39  rev=₹1208.33Cr  Dredging Corporation of India
+ 427  JAYBARMARU      29.9         ₹1,802Cr  roe=22.19  rev=₹2550.99Cr  Jay Bharat Maruti
+ 428  RPSGVENT        29.9         ₹2,793Cr  roe=-5.34  rev=₹11323.1Cr  RPSG Ventures
+ 429  SANATHAN        29.9         ₹3,785Cr  roe=4.2  rev=₹3811.18Cr  Sanathan Textiles
+ 430  WCIL            29.8         ₹1,032Cr  roe=4.58  rev=₹1829.24Cr  Western Carriers (India)
+ 431  SBC             29.7         ₹1,978Cr  roe=50.44  rev=₹403.21Cr  SBC Exports
+ 432  ROSSTECH        29.6         ₹3,638Cr  roe=15.18  rev=₹485.12Cr  Rossell Techsys
+ 433  UFLEX           29.3         ₹3,058Cr  roe=4.09  rev=₹15400.52Cr  Uflex
+ 434  SANSTAR         29.1         ₹2,215Cr  roe=5.09  rev=₹784.63Cr  Sanstar
+ 435  AVANTEL         28.9         ₹4,562Cr  roe=5.21  rev=₹222.87Cr  Avantel
+ 436  DCAL            28.4         ₹2,729Cr  roe=1.56  rev=₹2931.9Cr  Dishman Carbogen Amcis
+ 437  SHAREINDIA      28.1         ₹2,937Cr  roe=13.02  rev=₹602.96Cr  Share India Securities
+ 438  INDOSTAR        28.0         ₹4,183Cr  roe=3.51  rev=₹1362.68Cr  IndoStar Capital Finance
+ 439  DIGITIDE        27.9         ₹1,286Cr  roe=-1.96  rev=₹3080.18Cr  Digitide Solutions
+ 440  FUSION          27.9         ₹3,119Cr  roe=0.68  rev=₹1605.51Cr  Fusion Finance
+ 441  CAPITALSFB      27.4         ₹1,275Cr  roe=10.1  rev=₹1048.6Cr  Capital Small Finance Bank
+ 442  MOREPENLAB      27.4         ₹2,958Cr  roe=7.9  rev=₹1805.69Cr  Morepen Laboratories
+ 443  MAMATA          27.1         ₹1,005Cr  roe=8.45  rev=₹233.0Cr  Mamata Machinery
+ 444  INDORAMA        26.9         ₹1,186Cr  roe=33.85  rev=₹4910.06Cr  Indo Rama Synthetics (India)
+ 445  TECHNVISN       26.6         ₹2,747Cr  roe=1.37  rev=₹269.34Cr  TechNVision Ventures Ltd
+ 446  BAJAJHIND       26.5         ₹4,339Cr  roe=3.15  rev=₹5454.76Cr  Bajaj Hindusthan Sugar
+ 447  TRUALT          26.5         ₹3,931Cr  roe=8.38  rev=₹1727.51Cr  TruAlt Bioenergy
+ 448  63MOONS         25.7         ₹3,080Cr  roe=-0.64  rev=₹211.59Cr  63 Moons Technologies
+ 449  OPTIEMUS        25.7         ₹4,157Cr  roe=9.16  rev=₹1768.62Cr  Optiemus Infracom
+ 450  GRPLTD          25.6         ₹1,011Cr  roe=1.74  rev=₹535.33Cr  GRP
+ 451  YASHO           25.3         ₹3,527Cr  roe=5.85  rev=₹830.03Cr  Yasho Industries
+ 452  NFL             24.9         ₹3,675Cr  roe=7.61  rev=₹21514.18Cr  National Fertilizers
+ 453  BHAGCHEM        24.8         ₹3,659Cr  roe=2.63  rev=₹535.94Cr  Bhagiradha Chemicals & Industries Ltd
+ 454  RTNPOWER        24.7         ₹4,903Cr  roe=1.14  rev=₹2991.36Cr  RattanIndia Power
+ 455  OAL             24.3         ₹1,061Cr  roe=0.5  rev=₹1030.78Cr  Oriental Aromatics
+ 456  NELCO           23.7         ₹2,059Cr  roe=2.59  rev=₹306.6Cr  Nelco
+ 457  NIBE            23.6         ₹2,418Cr  roe=1.94  rev=₹474.45Cr  NIBE Ltd
+ 458  ANDHRAPAP       23.3         ₹1,256Cr  roe=0.96  rev=₹1701.23Cr  Andhra Paper
+ 459  TARSONS         23.1         ₹1,446Cr  roe=2.26  rev=₹422.51Cr  Tarsons Products
+ 460  LGHL            23.0         ₹1,127Cr  roe=4.31  rev=₹104.31Cr  Laxmi Goldorna House
+ 461  TATVA           23.0         ₹2,802Cr  roe=5.53  rev=₹505.86Cr  Tatva Chintan Pharma Chem
+ 462  XPROINDIA       22.5         ₹3,245Cr  roe=2.81  rev=₹505.49Cr  Xpro India
+ 463  HIMATSEIDE      22.4         ₹1,131Cr  roe=2.97  rev=₹2515.09Cr  Himatsingka Seide
+ 464  NACLIND         22.1         ₹4,604Cr  roe=0.82  rev=₹1584.46Cr  NACL Industries
+ 465  NIITLTD         21.9         ₹1,347Cr  roe=0.51  rev=₹390.17Cr  NIIT
+ 466  SURYODAY        21.7         ₹1,865Cr  roe=7.59  rev=₹2156.03Cr  Suryoday Small Finance Bank
+ 467  STEELXIND       21.2         ₹1,596Cr  roe=3.66  rev=₹1059.44Cr  Steel Exchange India
+ 468  DHANBANK        20.8         ₹1,265Cr  roe=7.16  rev=₹1601.48Cr  Dhanlaxmi Bank
+ 469  HEALTHX         20.8         ₹1,039Cr  roe=0.18  rev=₹1319.27Cr  Health X Platform Ltd
+ 470  MUKANDLTD       20.7         ₹1,921Cr  roe=48.88  rev=₹4889.83Cr  Mukand
+ 471  JISLJALEQS      20.4         ₹2,503Cr  roe=-0.43  rev=₹6399.52Cr  Jain Irrigation Systems
+ 472  TARC            20.4         ₹3,722Cr  roe=1.81  rev=₹329.84Cr  Tarc
+ 473  AURUM           20.3         ₹1,639Cr  roe=-2.86  rev=₹381.09Cr  Aurum Proptech
+ 474  RAYMOND         20.1         ₹3,885Cr  roe=1.03  rev=₹2212.1Cr  Raymond
+ 475  AYMSYNTEX       19.4         ₹1,284Cr  roe=1.12  rev=₹1365.12Cr  AYM Syntex
+ 476  CENTRUM         18.9         ₹1,062Cr  roe=-46.79  rev=₹3689.54Cr  Centrum Capital
+ 477  HINDWAREAP      18.8         ₹2,096Cr  roe=-5.25  rev=₹2510.28Cr  Hindware Home Innovation
+ 478  ZOTA            17.9         ₹4,907Cr  roe=-13.0  rev=₹538.66Cr  Zota Health Care
+ 479  KHATJUNKER      17.6         ₹1,401Cr  roe=2.96  rev=₹169.39Cr  Indokem
+ 480  THEMISMED       17.4         ₹1,012Cr  roe=0.29  rev=₹342.24Cr  Themis Medicare
+ 481  APOLLOPIPE      17.2         ₹2,124Cr  roe=0.93  rev=₹1104.92Cr  Apollo Pipes
+ 482  BLUSPRING       17.1         ₹1,615Cr  roe=-3.38  rev=₹3382.03Cr  Bluspring Enterprises
+ 483  JSFB            17.0         ₹4,719Cr  roe=7.6  rev=₹5383.66Cr  Jana Small Finance Bank
+ 484  CIFL            16.9         ₹1,007Cr  roe=6.16  rev=₹517.24Cr  Capital India Finance
+ 485  IDEAFORGE       16.8         ₹3,568Cr  roe=-2.82  rev=₹226.13Cr  ideaForge Technology
+ 486  IMAGICAA        16.7         ₹2,778Cr  roe=0.05  rev=₹373.85Cr  Imagicaaworld Entertainment
+ 487  SHALBY          16.7         ₹1,879Cr  roe=3.74  rev=₹1141.43Cr  Shalby
+ 488  SUMEETINDS      15.5         ₹1,958Cr  roe=15.44  rev=₹1050.42Cr  Sumeet Industries
+ 489  FINOPB          15.3         ₹1,220Cr  roe=6.76  rev=₹248.16Cr  FINO Payments Bank
+ 490  GREENPANEL      14.5         ₹2,402Cr  roe=-2.13  rev=₹1539.37Cr  Greenpanel Industries
+ 491  GUJALKALI       14.3         ₹4,515Cr  roe=-0.04  rev=₹4358.08Cr  Gujarat Alkalies And Chemicals
+ 492  CAMLINFINE      13.7         ₹2,619Cr  roe=-3.41  rev=₹1723.31Cr  Camlin Fine Sciences
+ 493  WINDMACHIN      13.4         ₹2,771Cr  roe=-0.64  rev=₹570.5Cr  Windsor Machines
+ 494  KITEX           13.0         ₹3,238Cr  roe=0.57  rev=₹666.95Cr  Kitex Garments
+ 495  ASIANHOTNR      12.8         ₹1,253Cr  roe=-17.29  rev=₹341.08Cr  Asian Hotels (North)
+ 496  HGS             12.3         ₹1,957Cr  roe=-1.45  rev=₹4307.36Cr  Hinduja Global Solutions
+ 497  DEN             12.2         ₹1,496Cr  roe=4.48  rev=₹974.28Cr  DEN Networks
+ 498  OMAXE           12.0         ₹1,526Cr  roe=-138.41  rev=₹1253.4Cr  Omaxe
+ 499  ORCHPHARMA      11.9         ₹4,706Cr  roe=1.59  rev=₹811.33Cr  Orchid Pharma
+ 500  UFBL            11.9         ₹2,438Cr  roe=-17.57  rev=₹1338.7Cr  United Foodbrands
+ 501  INDOCO          11.8         ₹2,133Cr  roe=-9.7  rev=₹1845.32Cr  Indoco Remedies
+ 502  QUADFUTURE      11.6         ₹1,739Cr  roe=-15.45  rev=₹152.97Cr  Quadrant Future Tek
+ 503  RTNINDIA        11.6         ₹4,649Cr  roe=-19.57  rev=₹7528.9Cr  Rattanindia Enterprises
+ 504  EXICOM          11.3         ₹2,197Cr  roe=-43.34  rev=₹1151.73Cr  Exicom Tele-Systems
+ 505  SAGCEM          10.6         ₹2,329Cr  roe=-0.65  rev=₹2650.02Cr  Sagar Cements
+ 506  BIRLANU         10.4         ₹1,040Cr  roe=-10.3  rev=₹3730.4Cr  Birlanu
+ 507  MADRASFERT      10.1         ₹1,107Cr  roe=269.55  rev=₹2300.35Cr  Madras Fertilizers
+ 508  PANACEABIO       9.7         ₹3,406Cr  roe=-0.64  rev=₹639.77Cr  Panacea Biotec
+ 509  SOLARA           9.5         ₹2,737Cr  roe=-0.63  rev=₹1368.98Cr  Solara Active Pharma Sciences
+ 510  RBA              9.2         ₹4,580Cr  roe=-22.96  rev=₹2822.64Cr  Restaurant Brands Asia
+ 511  SYMPHONY         9.2         ₹4,656Cr  roe=-19.46  rev=₹1131.0Cr  Symphony
+ 512  ASTEC            9.1         ₹1,619Cr  roe=-25.88  rev=₹448.15Cr  Astec LifeSciences
+ 513  BAJAJELEC        9.0         ₹3,719Cr  roe=-5.47  rev=₹4462.16Cr  Bajaj Electricals
+ 514  INDIQUBE         8.5         ₹3,579Cr  roe=-41.57  rev=₹1450.81Cr  Indiqube Spaces
+ 515  SHOPERSTOP       8.5         ₹3,923Cr  roe=-11.79  rev=₹5043.32Cr  Shoppers Stop
+ 516  HIKAL            8.3         ₹2,647Cr  roe=-3.97  rev=₹1712.6Cr  Hikal
+ 517  ALLCARGO         8.0         ₹1,221Cr  roe=-5.77  rev=₹2058.0Cr  Allcargo Logistics
+ 518  ESAFSFB          7.9         ₹1,699Cr  roe=-8.91  rev=₹3537.18Cr  ESAF Small Finance Bank
+ 519  KOLTEPATIL       7.6         ₹3,268Cr  roe=-3.8  rev=₹734.96Cr  Kolte-Patil Developers
+ 520  EASEMYTRIP       7.5         ₹2,626Cr  roe=-6.45  rev=₹535.7Cr  Easy Trip Planners
+ 521  TIL              7.3         ₹1,446Cr  roe=-31.82  rev=₹323.25Cr  TIL
+ 522  WALCHANNAG       7.0         ₹1,849Cr  roe=-4.02  rev=₹275.19Cr  Walchandnagar Industries
+ 523  BALAJITELE       6.9         ₹1,075Cr  roe=-7.67  rev=₹210.83Cr  Balaji Telefilms
+ 524  DCXINDIA         6.0         ₹2,210Cr  roe=-0.53  rev=₹743.34Cr  DCX Systems
+ 525  BEONIDA          5.9         ₹1,551Cr  roe=-41.12  rev=₹660.01Cr  MIRC Electronics
+ 526  BOSCH-HCIL       5.8         ₹3,724Cr  roe=-0.5  rev=₹2698.69Cr  Bosch Home Comfort India Ltd
+ 527  SPANDANA         5.5         ₹1,881Cr  roe=-29.36  rev=₹993.26Cr  Spandana Sphoorty Financial
+ 528  TIRUMALCHM       4.3         ₹2,013Cr  roe=-12.35  rev=₹1735.52Cr  Thirumalai Chemicals
+ 529  UTKARSHBNK       4.3         ₹2,541Cr  roe=-40.03  rev=₹3378.78Cr  Utkarsh Small Finance Bank
+ 530  CHEMPLASTS       4.1         ₹3,218Cr  roe=-14.64  rev=₹4223.79Cr  Chemplast Sanmar

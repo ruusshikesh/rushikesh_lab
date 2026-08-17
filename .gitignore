@@ -1,0 +1,27 @@
+# ── Secrets — NEVER commit these ──────────────────────────────
+.env
+backend/.env
+
+# ── Python ────────────────────────────────────────────────────
+venv/
+backend/venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# ── App-generated data (created at runtime) ──────────────────
+backend/data_store/
+backend/data_cache/
+backend/logs/
+
+# ── Node / frontend ───────────────────────────────────────────
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/package-lock.json
+
+# ── OS / editor junk ──────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

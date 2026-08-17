@@ -1,0 +1,16 @@
+# Rush Algo — Broker SDKs (OPTIONAL — only for LIVE trading)
+#
+# Install ONLY the broker you actually use, to avoid conflicts. e.g.:
+#   pip install kiteconnect       (Zerodha)
+#   pip install fyers-apiv3       (Fyers)
+#   pip install dhanhq            (Dhan)
+#
+# Or install all at once (may conflict on some systems):
+#   pip install -r requirements-brokers.txt
+#
+# Versions are left UNPINNED so pip picks ones compatible with your core
+# install. If a specific one fails, install just that broker by name.
+
+fyers-apiv3
+kiteconnect
+dhanhq

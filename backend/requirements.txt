@@ -1,0 +1,27 @@
+# Rush Algo — Core Python requirements
+# These versions are tested to install together without conflicts.
+#
+# Install with:  pip install -r requirements.txt
+#
+# NOTE: Broker SDKs (Fyers/Zerodha/Dhan) are in a SEPARATE file
+# (requirements-brokers.txt) because they pin older sub-dependencies and
+# commonly cause install conflicts on Windows. You only need them for LIVE
+# trading — paper mode works with just this core file.
+
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.4
+pydantic-settings==2.7.0
+python-dotenv==1.0.1
+pandas==2.2.3
+numpy==1.26.4
+yfinance==0.2.50
+ta==0.11.0
+pytz==2024.2
+requests==2.32.3
+httpx==0.27.2
+apscheduler==3.11.0
+
+# Telegram alerts (optional feature; safe to keep even if unused)
+python-telegram-bot==21.9
+kiteconnect

@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rush Algo</title>
+    <!-- JetBrains Mono - terminal/Bloomberg-style typeface. Designed for code
+         and data: unambiguous 0/O and 1/l/I, and TABULAR figures so digits line
+         up in columns, which is what makes dense price tables scannable.
+         preconnect shaves a round-trip off the font load. -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+      /* Match the dark theme used inside the app so there's no white flash */
+      html, body, #root { margin: 0; padding: 0; background: #06060F; min-height: 100vh; }
+
+      /* One font stack for the whole app. The system-monospace fallbacks matter:
+         if Google Fonts is unreachable (offline / blocked), the UI still renders
+         as a proper monospace terminal rather than falling back to sans-serif. */
+      :root {
+        --font-mono: "JetBrains Mono", "SF Mono", "Cascadia Mono", "Consolas",
+                     "DejaVu Sans Mono", ui-monospace, monospace;
+      }
+      body {
+        font-family: var(--font-mono);
+        /* tnum = tabular numbers: every digit takes the same width, so columns
+           of prices stay aligned instead of shifting as values change. */
+        font-feature-settings: "tnum" 1, "zero" 1;
+        letter-spacing: -0.01em;
+      }
+      /* Inputs and buttons don't inherit font-family by default in browsers. */
+      input, button, select, textarea { font-family: var(--font-mono); }
+    </style>
+  </head>
+  <body>
+    <!-- React mounts your whole app inside this empty div -->
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
